@@ -4,7 +4,7 @@
 * This application is prohibited on Discord; there is a risk of your account and your bot being banned!
 
 # ❓ Usage
-Place the role of the bot you created at the highest, otherwise, you will receive an error.
+Place the role of the bot you created at the highest, otherwise, you will receive an error. 
 Example:
 ![usage](https://github.com/maideens/rainbow-bot/assets/48116924/7eb8b0b5-2074-4780-8e37-b5e1e02ca81d)
 
